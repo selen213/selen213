@@ -187,7 +187,7 @@ Relevant Coursework:
 - 🥈 2nd place in a national public speaking competition
 - 🌍 Model United Nations delegate
 - 🎓 Graduated with distinction and excellence certificates
-- 👩‍🏫 STEM mentor and leadership mentor
+- 👩‍🏫 STEM mentor and leadership mentor at shavot and babushka
 
 ---
 
@@ -201,8 +201,8 @@ Relevant Coursework:
 
 # 📫 Connect With Me
 
-- LinkedIn: YOUR_LINK
-- Email: YOUR_EMAIL
+- LinkedIn: linkedin.com/in/celine-shakra
+- Email: selenabu213@gmail.com
 
 ---
 
