@@ -130,16 +130,30 @@ Focused heavily on:
 
 ---
 
-## 🧠 MindGuard — AI Behavioral Analytics Platform
+## 🧠 MindGuard — AI Behavioral Analytics Platform *(Current Project)*
 
-An AI-powered productivity and behavioral monitoring system combining:
-- real-time activity analysis
+Currently developing an AI-powered behavioral analytics and productivity platform designed to help users better manage focus, time, habits, and digital behavior patterns.
+
+The system combines:
+- real-time behavioral analytics
 - adaptive recommendation systems
 - intelligent chatbot interactions
-- behavioral signal processing
-- scalable analytics workflows
+- productivity monitoring
+- AI-driven behavioral workflows
+- scalable backend-oriented architecture
 
-Designed to bridge AI systems with real-world human productivity and behavioral understanding.
+Currently building:
+- a Flutter mobile application
+- intelligent AI interaction flows
+- behavioral recommendation pipelines
+- personalized productivity systems
+- real-time analytics infrastructure
+
+Focused on combining:
+- AI systems
+- scalable software engineering
+- behavioral intelligence
+- modern mobile development
 
 ---
 
@@ -161,6 +175,155 @@ Built using POSIX APIs including:
 - synchronization primitives
 
 Focused on understanding operating systems concepts and Linux execution flow deeply.
+
+
+---
+
+## 🚗 Compile-Time Rush Hour Engine
+
+An advanced C++ template metaprogramming project implementing the Rush Hour puzzle game entirely at compile time using:
+- recursive templates
+- type-level programming
+- compile-time board transformations
+- static assertions
+- custom compile-time data structures
+
+Focused on:
+- advanced C++ metaprogramming
+- generic programming
+- compile-time computation
+- algorithmic problem solving
+
+---
+
+## ⚙️ x86 Kernel & Assembly Projects
+
+Low-level systems programming projects implementing:
+- x86-64 interrupt handling
+- IDT manipulation
+- inline assembly utilities
+- assembly-based matrix multiplication
+- CPU context management
+
+Worked extensively with:
+- x86-64 assembly
+- kernel-level concepts
+- interrupt descriptor tables
+- low-level optimization
+- memory addressing
+
+---
+
+## 🏴‍☠️ Pirate Fleet Management System
+
+A high-performance C++ data structures project implementing:
+- Union-Find
+- dynamic hash tables
+- linked lists
+- amortized complexity optimizations
+- fleet and pirate management systems
+
+Focused on:
+- algorithmic efficiency
+- low-level memory management
+- pointer-based structures
+- scalable system design
+
+---
+
+## 🎵 Technion Tunes — Social Music Platform
+
+A Java-based social music system implementing:
+- user relationships
+- song rating systems
+- playlist analytics
+- BFS-based social connectivity
+- recommendation logic
+
+Focused on:
+- object-oriented architecture
+- graph traversal algorithms
+- collections & streams
+- scalable software design
+
+---
+
+## 🌐 Multi-Threaded Web Server
+
+Implemented a concurrent HTTP server in C supporting:
+- worker thread pools
+- VIP request handling
+- overload scheduling policies
+- bounded request queues
+- synchronization primitives
+
+Worked extensively with:
+- POSIX threads
+- sockets programming
+- concurrency
+- producer-consumer synchronization
+- operating systems concepts
+
+---
+
+## 🖥️ High-Performance Linux Shell
+
+Implemented a Linux shell supporting:
+- concurrent process execution
+- pipes
+- signals
+- job control
+- synchronization
+- IPC mechanisms
+- low-level process management
+
+Built using POSIX APIs including:
+- fork / exec
+- waitpid
+- signal handling
+- synchronization primitives
+
+Focused on understanding operating systems concepts and Linux execution flow deeply.
+
+---
+
+## 🍽️ Yummify — Restaurant Management Platform
+
+A full-stack database-driven restaurant management system built using:
+- PostgreSQL
+- Python
+- SQL
+- Streamlit
+
+Implemented:
+- recommendation systems
+- advanced SQL analytics
+- normalized relational schemas
+- customer/order management
+- interactive dashboards
+
+Focused on:
+- backend engineering
+- database systems
+- analytics pipelines
+- scalable data management
+
+---
+
+## ⚖️ Event-Driven Load Balancer Simulator
+
+An event-driven distributed systems simulator implementing:
+- M/M/1/N queueing models
+- probabilistic routing
+- multi-server load balancing
+- stochastic simulation
+- performance analytics
+
+Focused on:
+- distributed systems
+- queueing theory
+- systems simulation
+- performance evaluation
 
 ---
 
